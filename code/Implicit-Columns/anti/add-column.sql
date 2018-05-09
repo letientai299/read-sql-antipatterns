@@ -1,1 +1,0 @@
-ALTER TABLE Bugs ADD COLUMN date_due DATE;
